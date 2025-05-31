@@ -7,4 +7,4 @@ I will work my way through the excersises and post the .c files here. But be war
 
 I work with the no functions allowed rule and a few norm settings but I ignore a good chunk of the original norm eg function length.
 If you find errors or if you want to give me tips about writing the stuff in a more elegant way - feel free to contact me.
-I started as a counter junky but i try to work more often with pointer now - although i still didn't grasp the concept to 100%.
+I started as a counter junky but i try to work more often with pointers now - although i still didn't grasp the concept to 100%.
